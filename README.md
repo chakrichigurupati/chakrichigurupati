@@ -8,7 +8,7 @@ Charlotte, NC | chakravarthi.chigurupati@gmail.com | [LinkedIn](https://www.link
 
 ## About Me
 
-Master of Science in Computer Science (GPA **3.775/4.0**) from **Rowan University** (Aug 2024 -- May 2026), with a B.Tech in CS&E (GPA **8.95/10**) from Koneru Lakshmaiah University. Currently a **Software Engineer Intern at Digi Cloud LLC** (Charlotte, NC).
+Master of Science in Computer Science (GPA **3.775/4.0**) from **Rowan University** (Aug 2024 -- May 2026), with a B.Tech in CS&E (GPA **8.95/10**) from Koneru Lakshmaiah University. Completed a **Software Engineer Internship at Digi Cloud LLC** (Charlotte, NC, May 2026).
 
 - Building full-stack web apps with **React, Spring Boot, Django, and MySQL**
 - Certified in **AWS, Azure, Oracle Cloud, and Red Hat** (7 industry certifications)
